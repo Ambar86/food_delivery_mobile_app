@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "2.1.2",
+    "expo": "53.0.16",
+    "firebase": "^11.10.0",
+    "react": "19.0.0",
+    "react-native": "0.79.5",
+    "react-native-maps": "1.20.1",
+    "react-native-svg": "15.11.2"
+  },
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "This is a simple React Native application that simulates a food order checkout process and a real-time delivery status tracker.",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

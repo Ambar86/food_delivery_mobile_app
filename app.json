@@ -1,9 +1,21 @@
 {
   "expo": {
+    "name": "assignment",
+    "slug": "assignment",
+    "version": "1.0.0",
     "extra": {
       "eas": {
         "projectId": "8c11c010-1e0f-41a4-9d87-d8f0a4bdafd0"
       }
+    },
+    "android": {
+      "package": "com.ambar35.assignment",
+      "config": {
+        "googleMaps": {
+          "apiKey": "${GOOGLE_MAPS_API_KEY}"
+        }
+      }
     }
   }
 }
+

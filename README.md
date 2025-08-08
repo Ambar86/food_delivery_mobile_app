@@ -14,6 +14,7 @@ Setup and Installation Guide
 
 AI Tools Used
 
+
 Overview
 This project is a functional prototype of a modern food delivery application, built from the ground up. It features a user-friendly multi-step checkout process and a real-time order status page that includes a live map for tracking the delivery agent. The application is built using a robust and scalable architecture with React Native for the frontend and Firebase for backend services, demonstrating a complete end-to-end user flow.
 

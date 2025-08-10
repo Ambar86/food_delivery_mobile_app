@@ -11,6 +11,7 @@ export default function IconCheck() {
         strokeWidth="3"
         strokeLinecap="round"
         strokeLinejoin="round"
+          
       />
     </Svg>
   );
